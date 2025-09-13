@@ -1,0 +1,19 @@
+# Ignore build output
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore runtime-generated files
+tasks.json
+tasks.xml
+
+# Ignore IDE and OS files
+.vs/
+.idea/
+.DS_Store
+Thumbs.db
