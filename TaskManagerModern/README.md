@@ -1,7 +1,5 @@
 # TaskManagerModern (.NET 8)
 
-...existing code...
-
 ## Build Instructions
 
 To build the project:
@@ -17,5 +15,3 @@ To run the project:
 cd "C:\Users\ravi.cheetirala\OneDrive - Avanade\Work\GHCP ACM\Workshop\Foundations\dotnet-app\TaskManagerModern"
 dotnet run
 ```
-
-...existing code...
