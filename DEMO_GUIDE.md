@@ -1,6 +1,6 @@
 # Task Manager Demo Applications
 
-I've created two comprehensive .NET demo applications for you:
+I've created two comprehensive .NET task manager applications for you:
 
 ## 1. TaskManager (.NET Framework 4.7.2)
 **Location**: `TaskManager/`
